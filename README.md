@@ -4,3 +4,4 @@ Working on smarter encoding schemes like huffman encoding to empluy on temporal 
 
 Incorporating penalizing term with larger per epoch for increased spiking activity -> leads to sparse models and weights.
 
+Under development. To be published.
